@@ -1,0 +1,54 @@
+Итераций      - 10000 раз
+String        - 670   милисек.
+StringBuffer  - 0   милисек.
+StringBuilder - 0   милисек.
+
+Итераций      - 20000 раз
+String        - 2917   милисек.
+StringBuffer  - 0   милисек.
+StringBuilder - 0   милисек.
+
+Итераций      - 30000 раз
+String        - 7020   милисек.
+StringBuffer  - 0   милисек.
+StringBuilder - 16   милисек.
+
+Итераций      - 40000 раз
+String        - 12838   милисек.
+StringBuffer  - 0   милисек.
+StringBuilder - 16   милисек.
+
+Итераций      - 50000 раз
+String        - 20858   милисек.
+StringBuffer  - 15   милисек.
+StringBuilder - 0   милисек.
+
+Итераций      - 60000 раз
+String        - 31871   милисек.
+StringBuffer  - 15   милисек.
+StringBuilder - 17   милисек.
+
+Итераций      - 70000 раз
+String        - 46176   милисек.
+StringBuffer  - 15   милисек.
+StringBuilder - 16   милисек.
+
+Итераций      - 80000 раз
+String        - 63586   милисек.
+StringBuffer  - 15   милисек.
+StringBuilder - 17   милисек.
+
+Итераций      - 90000 раз
+String        - 84973   милисек.
+StringBuffer  - 16   милисек.
+StringBuilder - 17   милисек.
+
+Итераций      - 100000 раз
+String        - 110464   милисек.
+StringBuffer  - 31   милисек.
+StringBuilder - 17   милисек.
+
+Итераций      - 200000 раз
+String        - 816817   милисек.
+StringBuffer  - 48   милисек.
+StringBuilder - 47   милисек.

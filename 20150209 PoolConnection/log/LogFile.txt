@@ -1,0 +1,238 @@
+2015.02.06 17:29:10.747 - Config file adress: C:\JAVA\PoolConnection//src//dbm//config.properties
+2015.02.06 17:29:11.147 - Connection is true - 0
+2015.02.06 17:29:11.147 - Connection is true - 1
+2015.02.06 17:29:11.157 - Connection is true - 2
+2015.02.06 17:29:11.158 - Connection is true - 3
+2015.02.06 17:29:11.164 - Connection is true - 4
+2015.02.06 17:29:11.165 - The object DBConnectionManager was created
+2015.02.06 17:29:11.165 - Connection  № 0
+2015.02.06 17:29:11.172 - ОБЪЕКТ: ID-1, CATEGORY-ПОЛИТИКА, TITLE-Россия предлагает ООН закрепить неприемлемость госпереворотов, AUTHOR-Татьяна Гусева, AGENCY-ТАСС, DRELEASE-2015-01-21 [dto.News@e925c111]
+2015.02.06 17:29:11.173 - News  № ID-1, CATEGORY-ПОЛИТИКА, TITLE-Россия предлагает ООН закрепить неприемлемость госпереворотов, AUTHOR-Татьяна Гусева, AGENCY-ТАСС, DRELEASE-2015-01-21 [dto.News@e925c111]
+2015.02.06 17:29:11.173 - Connection  № 0
+2015.02.06 17:29:11.175 - ОБЪЕКТ: ID-2, CATEGORY-ПОЛИТИКА, TITLE-Россию нам никто не заменит, AUTHOR-Алина Гришкевич, AGENCY-БЕЛТА, DRELEASE-2015-01-15 [dto.News@4957a391]
+2015.02.06 17:29:11.176 - News  № ID-2, CATEGORY-ПОЛИТИКА, TITLE-Россию нам никто не заменит, AUTHOR-Алина Гришкевич, AGENCY-БЕЛТА, DRELEASE-2015-01-15 [dto.News@4957a391]
+2015.02.06 17:29:11.177 - Connection  № 0
+2015.02.06 17:29:11.180 - ОБЪЕКТ: ID-3, CATEGORY-ПОЛИТИКА, TITLE-Нас беспокоят трудности в России и Беларуси, AUTHOR-Наталья Костюкевич, AGENCY-DELFI, DRELEASE-2014-12-29 [dto.News@c0e1604c]
+2015.02.06 17:29:11.181 - News  № ID-3, CATEGORY-ПОЛИТИКА, TITLE-Нас беспокоят трудности в России и Беларуси, AUTHOR-Наталья Костюкевич, AGENCY-DELFI, DRELEASE-2014-12-29 [dto.News@c0e1604c]
+2015.02.06 17:29:11.189 - Connection  № 0
+2015.02.06 17:29:11.191 - ОБЪЕКТ: ID-4, CATEGORY-ПОЛИТИКА, TITLE-Встречи контактной группы в Минске 16 января не будет, AUTHOR-Станислав Коршунов, AGENCY-LENTA.RU, DRELEASE-2015-01-16 [dto.News@53ad8746]
+2015.02.06 17:29:11.192 - News  № ID-4, CATEGORY-ПОЛИТИКА, TITLE-Встречи контактной группы в Минске 16 января не будет, AUTHOR-Станислав Коршунов, AGENCY-LENTA.RU, DRELEASE-2015-01-16 [dto.News@53ad8746]
+2015.02.06 17:29:11.192 - Connection  № 0
+2015.02.06 17:29:11.195 - ОБЪЕКТ: ID-5, CATEGORY-ЭКОНОМИКА, TITLE-На торгах 20 января рубль продолжил укрепляться, AUTHOR-Артем Шрайбман, AGENCY-TUT.BY, DRELEASE-2015-01-20 [dto.News@70a6b549]
+2015.02.06 17:29:11.196 - News  № ID-5, CATEGORY-ЭКОНОМИКА, TITLE-На торгах 20 января рубль продолжил укрепляться, AUTHOR-Артем Шрайбман, AGENCY-TUT.BY, DRELEASE-2015-01-20 [dto.News@70a6b549]
+2015.02.06 17:29:11.198 - Connection  № 0
+2015.02.06 17:29:11.201 - ОБЪЕКТ: ID-6, CATEGORY-ЭКОНОМИКА, TITLE-Газпром закрывает представительство в Минске из-за ненадобности, AUTHOR-Валентина Лайкова, AGENCY-ИНТЕРФАКС, DRELEASE-2015-01-19 [dto.News@e2a8d24a]
+2015.02.06 17:29:11.202 - News  № ID-6, CATEGORY-ЭКОНОМИКА, TITLE-Газпром закрывает представительство в Минске из-за ненадобности, AUTHOR-Валентина Лайкова, AGENCY-ИНТЕРФАКС, DRELEASE-2015-01-19 [dto.News@e2a8d24a]
+2015.02.06 17:29:11.202 - Connection  № 0
+2015.02.06 17:29:11.204 - ОБЪЕКТ: ID-7, CATEGORY-ЭКОНОМИКА, TITLE-Экспорт белорусских товаров в Россию сократился на 1 млрд долларов, AUTHOR-Дмитрий Заяц, AGENCY-БелаПАН, DRELEASE-2015-01-13 [dto.News@eca68b87]
+2015.02.06 17:29:11.204 - News  № ID-7, CATEGORY-ЭКОНОМИКА, TITLE-Экспорт белорусских товаров в Россию сократился на 1 млрд долларов, AUTHOR-Дмитрий Заяц, AGENCY-БелаПАН, DRELEASE-2015-01-13 [dto.News@eca68b87]
+2015.02.06 17:29:11.205 - Connection  № 0
+2015.02.06 17:29:11.207 - ОБЪЕКТ: ID-8, CATEGORY-СПОРТ, TITLE-Минское Динамо забросило в гостях Словану шесть шайб, AUTHOR-Денис Алдохин, AGENCY-РИА Новости, DRELEASE-2015-01-21 [dto.News@1eca3414]
+2015.02.06 17:29:11.207 - News  № ID-8, CATEGORY-СПОРТ, TITLE-Минское Динамо забросило в гостях Словану шесть шайб, AUTHOR-Денис Алдохин, AGENCY-РИА Новости, DRELEASE-2015-01-21 [dto.News@1eca3414]
+2015.02.06 17:29:11.208 - Connection  № 0
+2015.02.06 17:29:11.280 - ОБЪЕКТ: ID-9, CATEGORY-СПОРТ, TITLE-Азаренко вышла во второй круг Australian Open, AUTHOR-Василий Федосенко, AGENCY-TUT.BY, DRELEASE-2015-01-20 [dto.News@74f88db7]
+2015.02.06 17:29:11.281 - News  № ID-9, CATEGORY-СПОРТ, TITLE-Азаренко вышла во второй круг Australian Open, AUTHOR-Василий Федосенко, AGENCY-TUT.BY, DRELEASE-2015-01-20 [dto.News@74f88db7]
+2015.02.06 17:29:11.281 - Connection  № 0
+2015.02.06 17:29:11.283 - ОБЪЕКТ: ID-10, CATEGORY-СПОРТ, TITLE-Домрачева одержала уверенную победу в масс-старте, AUTHOR-Станислав Коршунов, AGENCY-Reuters, DRELEASE-2015-01-18 [dto.News@c6287662]
+2015.02.06 17:29:11.283 - News  № ID-10, CATEGORY-СПОРТ, TITLE-Домрачева одержала уверенную победу в масс-старте, AUTHOR-Станислав Коршунов, AGENCY-Reuters, DRELEASE-2015-01-18 [dto.News@c6287662]
+2015.02.06 17:30:31.981 - Config file adress: C:\JAVA\PoolConnection//src//dbm//config.properties
+2015.02.06 17:30:31.983 - driver: 	com.mysql.jdbc.Driver
+2015.02.06 17:30:31.984 - host: 	jdbc:mysql://localhost:3306/webnews?autoReconnect=true&useUnicode=true&characterEncoding=cp1251
+2015.02.06 17:30:31.985 - login: 	root
+2015.02.06 17:30:31.986 - password: 
+2015.02.06 17:30:32.386 - Connection is true - 0
+2015.02.06 17:30:32.411 - Connection is true - 1
+2015.02.06 17:30:32.426 - Connection is true - 2
+2015.02.06 17:30:32.439 - Connection is true - 3
+2015.02.06 17:30:32.452 - Connection is true - 4
+2015.02.06 17:30:32.453 - The object DBConnectionManager was created
+2015.02.06 17:30:32.453 - Connection  № 0
+2015.02.06 17:30:32.476 - ОБЪЕКТ: ID-1, CATEGORY-ПОЛИТИКА, TITLE-Россия предлагает ООН закрепить неприемлемость госпереворотов, AUTHOR-Татьяна Гусева, AGENCY-ТАСС, DRELEASE-2015-01-21 [dto.News@e925c111]
+2015.02.06 17:30:32.476 - News  № ID-1, CATEGORY-ПОЛИТИКА, TITLE-Россия предлагает ООН закрепить неприемлемость госпереворотов, AUTHOR-Татьяна Гусева, AGENCY-ТАСС, DRELEASE-2015-01-21 [dto.News@e925c111]
+2015.02.06 17:30:32.476 - Connection  № 0
+2015.02.06 17:30:32.476 - ОБЪЕКТ: ID-2, CATEGORY-ПОЛИТИКА, TITLE-Россию нам никто не заменит, AUTHOR-Алина Гришкевич, AGENCY-БЕЛТА, DRELEASE-2015-01-15 [dto.News@4957a391]
+2015.02.06 17:30:32.476 - News  № ID-2, CATEGORY-ПОЛИТИКА, TITLE-Россию нам никто не заменит, AUTHOR-Алина Гришкевич, AGENCY-БЕЛТА, DRELEASE-2015-01-15 [dto.News@4957a391]
+2015.02.06 17:30:32.476 - Connection  № 0
+2015.02.06 17:30:32.486 - ОБЪЕКТ: ID-3, CATEGORY-ПОЛИТИКА, TITLE-Нас беспокоят трудности в России и Беларуси, AUTHOR-Наталья Костюкевич, AGENCY-DELFI, DRELEASE-2014-12-29 [dto.News@c0e1604c]
+2015.02.06 17:30:32.486 - News  № ID-3, CATEGORY-ПОЛИТИКА, TITLE-Нас беспокоят трудности в России и Беларуси, AUTHOR-Наталья Костюкевич, AGENCY-DELFI, DRELEASE-2014-12-29 [dto.News@c0e1604c]
+2015.02.06 17:30:32.486 - Connection  № 0
+2015.02.06 17:30:32.486 - ОБЪЕКТ: ID-4, CATEGORY-ПОЛИТИКА, TITLE-Встречи контактной группы в Минске 16 января не будет, AUTHOR-Станислав Коршунов, AGENCY-LENTA.RU, DRELEASE-2015-01-16 [dto.News@53ad8746]
+2015.02.06 17:30:32.486 - News  № ID-4, CATEGORY-ПОЛИТИКА, TITLE-Встречи контактной группы в Минске 16 января не будет, AUTHOR-Станислав Коршунов, AGENCY-LENTA.RU, DRELEASE-2015-01-16 [dto.News@53ad8746]
+2015.02.06 17:30:32.486 - Connection  № 0
+2015.02.06 17:30:32.486 - ОБЪЕКТ: ID-5, CATEGORY-ЭКОНОМИКА, TITLE-На торгах 20 января рубль продолжил укрепляться, AUTHOR-Артем Шрайбман, AGENCY-TUT.BY, DRELEASE-2015-01-20 [dto.News@70a6b549]
+2015.02.06 17:30:32.486 - News  № ID-5, CATEGORY-ЭКОНОМИКА, TITLE-На торгах 20 января рубль продолжил укрепляться, AUTHOR-Артем Шрайбман, AGENCY-TUT.BY, DRELEASE-2015-01-20 [dto.News@70a6b549]
+2015.02.06 17:30:32.486 - Connection  № 0
+2015.02.06 17:30:32.486 - ОБЪЕКТ: ID-6, CATEGORY-ЭКОНОМИКА, TITLE-Газпром закрывает представительство в Минске из-за ненадобности, AUTHOR-Валентина Лайкова, AGENCY-ИНТЕРФАКС, DRELEASE-2015-01-19 [dto.News@e2a8d24a]
+2015.02.06 17:30:32.487 - News  № ID-6, CATEGORY-ЭКОНОМИКА, TITLE-Газпром закрывает представительство в Минске из-за ненадобности, AUTHOR-Валентина Лайкова, AGENCY-ИНТЕРФАКС, DRELEASE-2015-01-19 [dto.News@e2a8d24a]
+2015.02.06 17:30:32.487 - Connection  № 0
+2015.02.06 17:30:32.487 - ОБЪЕКТ: ID-7, CATEGORY-ЭКОНОМИКА, TITLE-Экспорт белорусских товаров в Россию сократился на 1 млрд долларов, AUTHOR-Дмитрий Заяц, AGENCY-БелаПАН, DRELEASE-2015-01-13 [dto.News@eca68b87]
+2015.02.06 17:30:32.487 - News  № ID-7, CATEGORY-ЭКОНОМИКА, TITLE-Экспорт белорусских товаров в Россию сократился на 1 млрд долларов, AUTHOR-Дмитрий Заяц, AGENCY-БелаПАН, DRELEASE-2015-01-13 [dto.News@eca68b87]
+2015.02.06 17:30:32.487 - Connection  № 0
+2015.02.06 17:30:32.488 - ОБЪЕКТ: ID-8, CATEGORY-СПОРТ, TITLE-Минское Динамо забросило в гостях Словану шесть шайб, AUTHOR-Денис Алдохин, AGENCY-РИА Новости, DRELEASE-2015-01-21 [dto.News@1eca3414]
+2015.02.06 17:30:32.489 - News  № ID-8, CATEGORY-СПОРТ, TITLE-Минское Динамо забросило в гостях Словану шесть шайб, AUTHOR-Денис Алдохин, AGENCY-РИА Новости, DRELEASE-2015-01-21 [dto.News@1eca3414]
+2015.02.06 17:30:32.491 - Connection  № 0
+2015.02.06 17:30:32.495 - ОБЪЕКТ: ID-9, CATEGORY-СПОРТ, TITLE-Азаренко вышла во второй круг Australian Open, AUTHOR-Василий Федосенко, AGENCY-TUT.BY, DRELEASE-2015-01-20 [dto.News@74f88db7]
+2015.02.06 17:30:32.496 - News  № ID-9, CATEGORY-СПОРТ, TITLE-Азаренко вышла во второй круг Australian Open, AUTHOR-Василий Федосенко, AGENCY-TUT.BY, DRELEASE-2015-01-20 [dto.News@74f88db7]
+2015.02.06 17:30:32.497 - Connection  № 0
+2015.02.06 17:30:32.501 - ОБЪЕКТ: ID-10, CATEGORY-СПОРТ, TITLE-Домрачева одержала уверенную победу в масс-старте, AUTHOR-Станислав Коршунов, AGENCY-Reuters, DRELEASE-2015-01-18 [dto.News@c6287662]
+2015.02.06 17:30:32.502 - News  № ID-10, CATEGORY-СПОРТ, TITLE-Домрачева одержала уверенную победу в масс-старте, AUTHOR-Станислав Коршунов, AGENCY-Reuters, DRELEASE-2015-01-18 [dto.News@c6287662]
+2015.02.06 17:31:18.432 - 		*** ЛОГГЕР СТАРТОВАЛ ***
+2015.02.06 17:31:18.438 - Config file adress: C:\JAVA\PoolConnection//src//dbm//config.properties
+2015.02.06 17:31:18.439 - driver: 	com.mysql.jdbc.Driver
+2015.02.06 17:31:18.441 - host: 	jdbc:mysql://localhost:3306/webnews?autoReconnect=true&useUnicode=true&characterEncoding=cp1251
+2015.02.06 17:31:18.442 - login: 	root
+2015.02.06 17:31:18.444 - password: 
+2015.02.06 17:31:18.797 - Connection is true - 0
+2015.02.06 17:31:18.808 - Connection is true - 1
+2015.02.06 17:31:18.875 - Connection is true - 2
+2015.02.06 17:31:18.888 - Connection is true - 3
+2015.02.06 17:31:18.909 - Connection is true - 4
+2015.02.06 17:31:18.909 - The object DBConnectionManager was created
+2015.02.06 17:31:18.909 - Connection  № 0
+2015.02.06 17:31:18.919 - ОБЪЕКТ: ID-1, CATEGORY-ПОЛИТИКА, TITLE-Россия предлагает ООН закрепить неприемлемость госпереворотов, AUTHOR-Татьяна Гусева, AGENCY-ТАСС, DRELEASE-2015-01-21 [dto.News@e925c111]
+2015.02.06 17:31:18.919 - News  № ID-1, CATEGORY-ПОЛИТИКА, TITLE-Россия предлагает ООН закрепить неприемлемость госпереворотов, AUTHOR-Татьяна Гусева, AGENCY-ТАСС, DRELEASE-2015-01-21 [dto.News@e925c111]
+2015.02.06 17:31:18.919 - Connection  № 0
+2015.02.06 17:31:18.919 - ОБЪЕКТ: ID-2, CATEGORY-ПОЛИТИКА, TITLE-Россию нам никто не заменит, AUTHOR-Алина Гришкевич, AGENCY-БЕЛТА, DRELEASE-2015-01-15 [dto.News@4957a391]
+2015.02.06 17:31:18.919 - News  № ID-2, CATEGORY-ПОЛИТИКА, TITLE-Россию нам никто не заменит, AUTHOR-Алина Гришкевич, AGENCY-БЕЛТА, DRELEASE-2015-01-15 [dto.News@4957a391]
+2015.02.06 17:31:18.919 - Connection  № 0
+2015.02.06 17:31:18.920 - ОБЪЕКТ: ID-3, CATEGORY-ПОЛИТИКА, TITLE-Нас беспокоят трудности в России и Беларуси, AUTHOR-Наталья Костюкевич, AGENCY-DELFI, DRELEASE-2014-12-29 [dto.News@c0e1604c]
+2015.02.06 17:31:18.920 - News  № ID-3, CATEGORY-ПОЛИТИКА, TITLE-Нас беспокоят трудности в России и Беларуси, AUTHOR-Наталья Костюкевич, AGENCY-DELFI, DRELEASE-2014-12-29 [dto.News@c0e1604c]
+2015.02.06 17:31:18.920 - Connection  № 0
+2015.02.06 17:31:18.920 - ОБЪЕКТ: ID-4, CATEGORY-ПОЛИТИКА, TITLE-Встречи контактной группы в Минске 16 января не будет, AUTHOR-Станислав Коршунов, AGENCY-LENTA.RU, DRELEASE-2015-01-16 [dto.News@53ad8746]
+2015.02.06 17:31:18.921 - News  № ID-4, CATEGORY-ПОЛИТИКА, TITLE-Встречи контактной группы в Минске 16 января не будет, AUTHOR-Станислав Коршунов, AGENCY-LENTA.RU, DRELEASE-2015-01-16 [dto.News@53ad8746]
+2015.02.06 17:31:18.923 - Connection  № 0
+2015.02.06 17:31:18.926 - ОБЪЕКТ: ID-5, CATEGORY-ЭКОНОМИКА, TITLE-На торгах 20 января рубль продолжил укрепляться, AUTHOR-Артем Шрайбман, AGENCY-TUT.BY, DRELEASE-2015-01-20 [dto.News@70a6b549]
+2015.02.06 17:31:18.930 - News  № ID-5, CATEGORY-ЭКОНОМИКА, TITLE-На торгах 20 января рубль продолжил укрепляться, AUTHOR-Артем Шрайбман, AGENCY-TUT.BY, DRELEASE-2015-01-20 [dto.News@70a6b549]
+2015.02.06 17:31:18.930 - Connection  № 0
+2015.02.06 17:31:18.933 - ОБЪЕКТ: ID-6, CATEGORY-ЭКОНОМИКА, TITLE-Газпром закрывает представительство в Минске из-за ненадобности, AUTHOR-Валентина Лайкова, AGENCY-ИНТЕРФАКС, DRELEASE-2015-01-19 [dto.News@e2a8d24a]
+2015.02.06 17:31:18.934 - News  № ID-6, CATEGORY-ЭКОНОМИКА, TITLE-Газпром закрывает представительство в Минске из-за ненадобности, AUTHOR-Валентина Лайкова, AGENCY-ИНТЕРФАКС, DRELEASE-2015-01-19 [dto.News@e2a8d24a]
+2015.02.06 17:31:18.935 - Connection  № 0
+2015.02.06 17:31:18.937 - ОБЪЕКТ: ID-7, CATEGORY-ЭКОНОМИКА, TITLE-Экспорт белорусских товаров в Россию сократился на 1 млрд долларов, AUTHOR-Дмитрий Заяц, AGENCY-БелаПАН, DRELEASE-2015-01-13 [dto.News@eca68b87]
+2015.02.06 17:31:18.938 - News  № ID-7, CATEGORY-ЭКОНОМИКА, TITLE-Экспорт белорусских товаров в Россию сократился на 1 млрд долларов, AUTHOR-Дмитрий Заяц, AGENCY-БелаПАН, DRELEASE-2015-01-13 [dto.News@eca68b87]
+2015.02.06 17:31:18.939 - Connection  № 0
+2015.02.06 17:31:18.942 - ОБЪЕКТ: ID-8, CATEGORY-СПОРТ, TITLE-Минское Динамо забросило в гостях Словану шесть шайб, AUTHOR-Денис Алдохин, AGENCY-РИА Новости, DRELEASE-2015-01-21 [dto.News@1eca3414]
+2015.02.06 17:31:18.943 - News  № ID-8, CATEGORY-СПОРТ, TITLE-Минское Динамо забросило в гостях Словану шесть шайб, AUTHOR-Денис Алдохин, AGENCY-РИА Новости, DRELEASE-2015-01-21 [dto.News@1eca3414]
+2015.02.06 17:31:18.944 - Connection  № 0
+2015.02.06 17:31:18.948 - ОБЪЕКТ: ID-9, CATEGORY-СПОРТ, TITLE-Азаренко вышла во второй круг Australian Open, AUTHOR-Василий Федосенко, AGENCY-TUT.BY, DRELEASE-2015-01-20 [dto.News@74f88db7]
+2015.02.06 17:31:18.950 - News  № ID-9, CATEGORY-СПОРТ, TITLE-Азаренко вышла во второй круг Australian Open, AUTHOR-Василий Федосенко, AGENCY-TUT.BY, DRELEASE-2015-01-20 [dto.News@74f88db7]
+2015.02.06 17:31:18.951 - Connection  № 0
+2015.02.06 17:31:18.954 - ОБЪЕКТ: ID-10, CATEGORY-СПОРТ, TITLE-Домрачева одержала уверенную победу в масс-старте, AUTHOR-Станислав Коршунов, AGENCY-Reuters, DRELEASE-2015-01-18 [dto.News@c6287662]
+2015.02.06 17:31:18.954 - News  № ID-10, CATEGORY-СПОРТ, TITLE-Домрачева одержала уверенную победу в масс-старте, AUTHOR-Станислав Коршунов, AGENCY-Reuters, DRELEASE-2015-01-18 [dto.News@c6287662]
+2015.02.06 17:31:54.955 - 		*** ЛОГГЕР СТАРТОВАЛ ***
+2015.02.06 17:31:54.960 - Config file adress: C:\JAVA\PoolConnection//src//dbm//config.properties
+2015.02.06 17:31:54.964 - driver: 	com.mysql.jdbc.Driver
+2015.02.06 17:31:54.967 - host: 	jdbc:mysql://localhost:3306/webnews?autoReconnect=true&useUnicode=true&characterEncoding=cp1251
+2015.02.06 17:31:54.969 - login: 	root
+2015.02.06 17:31:54.970 - password: 
+2015.02.06 17:31:55.357 - Connection is true - 0
+2015.02.06 17:31:55.389 - Connection is true - 1
+2015.02.06 17:31:55.389 - Connection is true - 2
+2015.02.06 17:31:55.399 - Connection is true - 3
+2015.02.06 17:31:55.399 - Connection is true - 4
+2015.02.06 17:31:55.400 - The object DBConnectionManager was created
+2015.02.06 17:31:55.400 - Connection  № 0
+2015.02.06 17:31:55.400 - ОБЪЕКТ: ID-1, CATEGORY-ПОЛИТИКА, TITLE-Россия предлагает ООН закрепить неприемлемость госпереворотов, AUTHOR-Татьяна Гусева, AGENCY-ТАСС, DRELEASE-2015-01-21 [dto.News@e925c111]
+2015.02.06 17:31:55.400 - News  № ID-1, CATEGORY-ПОЛИТИКА, TITLE-Россия предлагает ООН закрепить неприемлемость госпереворотов, AUTHOR-Татьяна Гусева, AGENCY-ТАСС, DRELEASE-2015-01-21 [dto.News@e925c111]
+2015.02.06 17:31:55.401 - Connection  № 0
+2015.02.06 17:31:55.403 - ОБЪЕКТ: ID-2, CATEGORY-ПОЛИТИКА, TITLE-Россию нам никто не заменит, AUTHOR-Алина Гришкевич, AGENCY-БЕЛТА, DRELEASE-2015-01-15 [dto.News@4957a391]
+2015.02.06 17:31:55.404 - News  № ID-2, CATEGORY-ПОЛИТИКА, TITLE-Россию нам никто не заменит, AUTHOR-Алина Гришкевич, AGENCY-БЕЛТА, DRELEASE-2015-01-15 [dto.News@4957a391]
+2015.02.06 17:31:55.408 - Connection  № 0
+2015.02.06 17:31:55.410 - ОБЪЕКТ: ID-3, CATEGORY-ПОЛИТИКА, TITLE-Нас беспокоят трудности в России и Беларуси, AUTHOR-Наталья Костюкевич, AGENCY-DELFI, DRELEASE-2014-12-29 [dto.News@c0e1604c]
+2015.02.06 17:31:55.411 - News  № ID-3, CATEGORY-ПОЛИТИКА, TITLE-Нас беспокоят трудности в России и Беларуси, AUTHOR-Наталья Костюкевич, AGENCY-DELFI, DRELEASE-2014-12-29 [dto.News@c0e1604c]
+2015.02.06 17:31:55.413 - Connection  № 0
+2015.02.06 17:31:55.415 - ОБЪЕКТ: ID-4, CATEGORY-ПОЛИТИКА, TITLE-Встречи контактной группы в Минске 16 января не будет, AUTHOR-Станислав Коршунов, AGENCY-LENTA.RU, DRELEASE-2015-01-16 [dto.News@53ad8746]
+2015.02.06 17:31:55.416 - News  № ID-4, CATEGORY-ПОЛИТИКА, TITLE-Встречи контактной группы в Минске 16 января не будет, AUTHOR-Станислав Коршунов, AGENCY-LENTA.RU, DRELEASE-2015-01-16 [dto.News@53ad8746]
+2015.02.06 17:31:55.418 - Connection  № 0
+2015.02.06 17:31:55.420 - ОБЪЕКТ: ID-5, CATEGORY-ЭКОНОМИКА, TITLE-На торгах 20 января рубль продолжил укрепляться, AUTHOR-Артем Шрайбман, AGENCY-TUT.BY, DRELEASE-2015-01-20 [dto.News@70a6b549]
+2015.02.06 17:31:55.421 - News  № ID-5, CATEGORY-ЭКОНОМИКА, TITLE-На торгах 20 января рубль продолжил укрепляться, AUTHOR-Артем Шрайбман, AGENCY-TUT.BY, DRELEASE-2015-01-20 [dto.News@70a6b549]
+2015.02.06 17:31:55.422 - Connection  № 0
+2015.02.06 17:31:55.426 - ОБЪЕКТ: ID-6, CATEGORY-ЭКОНОМИКА, TITLE-Газпром закрывает представительство в Минске из-за ненадобности, AUTHOR-Валентина Лайкова, AGENCY-ИНТЕРФАКС, DRELEASE-2015-01-19 [dto.News@e2a8d24a]
+2015.02.06 17:31:55.426 - News  № ID-6, CATEGORY-ЭКОНОМИКА, TITLE-Газпром закрывает представительство в Минске из-за ненадобности, AUTHOR-Валентина Лайкова, AGENCY-ИНТЕРФАКС, DRELEASE-2015-01-19 [dto.News@e2a8d24a]
+2015.02.06 17:31:55.427 - Connection  № 0
+2015.02.06 17:31:55.430 - ОБЪЕКТ: ID-7, CATEGORY-ЭКОНОМИКА, TITLE-Экспорт белорусских товаров в Россию сократился на 1 млрд долларов, AUTHOR-Дмитрий Заяц, AGENCY-БелаПАН, DRELEASE-2015-01-13 [dto.News@eca68b87]
+2015.02.06 17:31:55.439 - News  № ID-7, CATEGORY-ЭКОНОМИКА, TITLE-Экспорт белорусских товаров в Россию сократился на 1 млрд долларов, AUTHOR-Дмитрий Заяц, AGENCY-БелаПАН, DRELEASE-2015-01-13 [dto.News@eca68b87]
+2015.02.06 17:31:55.440 - Connection  № 0
+2015.02.06 17:31:55.442 - ОБЪЕКТ: ID-8, CATEGORY-СПОРТ, TITLE-Минское Динамо забросило в гостях Словану шесть шайб, AUTHOR-Денис Алдохин, AGENCY-РИА Новости, DRELEASE-2015-01-21 [dto.News@1eca3414]
+2015.02.06 17:31:55.443 - News  № ID-8, CATEGORY-СПОРТ, TITLE-Минское Динамо забросило в гостях Словану шесть шайб, AUTHOR-Денис Алдохин, AGENCY-РИА Новости, DRELEASE-2015-01-21 [dto.News@1eca3414]
+2015.02.06 17:31:55.444 - Connection  № 0
+2015.02.06 17:31:55.446 - ОБЪЕКТ: ID-9, CATEGORY-СПОРТ, TITLE-Азаренко вышла во второй круг Australian Open, AUTHOR-Василий Федосенко, AGENCY-TUT.BY, DRELEASE-2015-01-20 [dto.News@74f88db7]
+2015.02.06 17:31:55.447 - News  № ID-9, CATEGORY-СПОРТ, TITLE-Азаренко вышла во второй круг Australian Open, AUTHOR-Василий Федосенко, AGENCY-TUT.BY, DRELEASE-2015-01-20 [dto.News@74f88db7]
+2015.02.06 17:31:55.448 - Connection  № 0
+2015.02.06 17:31:55.453 - ОБЪЕКТ: ID-10, CATEGORY-СПОРТ, TITLE-Домрачева одержала уверенную победу в масс-старте, AUTHOR-Станислав Коршунов, AGENCY-Reuters, DRELEASE-2015-01-18 [dto.News@c6287662]
+2015.02.06 17:31:55.464 - News  № ID-10, CATEGORY-СПОРТ, TITLE-Домрачева одержала уверенную победу в масс-старте, AUTHOR-Станислав Коршунов, AGENCY-Reuters, DRELEASE-2015-01-18 [dto.News@c6287662]
+2015.02.06 17:34:07.819 - 		*** ЛОГГЕР СТАРТОВАЛ ***
+2015.02.06 17:34:07.820 - Config file adress: C:\JAVA\PoolConnection//src//dbm//config.properties
+2015.02.06 17:34:07.820 - driver: 	com.mysql.jdbc.Driver
+2015.02.06 17:34:07.820 - host: 	jdbc:mysql://localhost:3306/webnews?autoReconnect=true&useUnicode=true&characterEncoding=cp1251
+2015.02.06 17:34:07.820 - login: 	root
+2015.02.06 17:34:07.820 - password: 
+2015.02.06 17:34:08.227 - Connection is true - 0
+2015.02.06 17:34:08.231 - Connection is true - 1
+2015.02.06 17:34:08.263 - Connection is true - 2
+2015.02.06 17:34:08.276 - Connection is true - 3
+2015.02.06 17:34:08.287 - Connection is true - 4
+2015.02.06 17:34:08.287 - The object DBConnectionManager was created
+2015.02.06 17:34:08.288 - Connection  № 0
+2015.02.06 17:34:08.300 - News: ID-1, CATEGORY-ПОЛИТИКА, TITLE-Россия предлагает ООН закрепить неприемлемость госпереворотов, AUTHOR-Татьяна Гусева, AGENCY-ТАСС, DRELEASE-2015-01-21 [dto.News@e925c111]
+2015.02.06 17:34:08.301 - Connection  № 0
+2015.02.06 17:34:08.304 - News: ID-2, CATEGORY-ПОЛИТИКА, TITLE-Россию нам никто не заменит, AUTHOR-Алина Гришкевич, AGENCY-БЕЛТА, DRELEASE-2015-01-15 [dto.News@4957a391]
+2015.02.06 17:34:08.316 - Connection  № 0
+2015.02.06 17:34:08.326 - News: ID-3, CATEGORY-ПОЛИТИКА, TITLE-Нас беспокоят трудности в России и Беларуси, AUTHOR-Наталья Костюкевич, AGENCY-DELFI, DRELEASE-2014-12-29 [dto.News@c0e1604c]
+2015.02.06 17:34:08.326 - Connection  № 0
+2015.02.06 17:34:08.326 - News: ID-4, CATEGORY-ПОЛИТИКА, TITLE-Встречи контактной группы в Минске 16 января не будет, AUTHOR-Станислав Коршунов, AGENCY-LENTA.RU, DRELEASE-2015-01-16 [dto.News@53ad8746]
+2015.02.06 17:34:08.336 - Connection  № 0
+2015.02.06 17:34:08.336 - News: ID-5, CATEGORY-ЭКОНОМИКА, TITLE-На торгах 20 января рубль продолжил укрепляться, AUTHOR-Артем Шрайбман, AGENCY-TUT.BY, DRELEASE-2015-01-20 [dto.News@70a6b549]
+2015.02.06 17:34:08.336 - Connection  № 0
+2015.02.06 17:34:08.336 - News: ID-6, CATEGORY-ЭКОНОМИКА, TITLE-Газпром закрывает представительство в Минске из-за ненадобности, AUTHOR-Валентина Лайкова, AGENCY-ИНТЕРФАКС, DRELEASE-2015-01-19 [dto.News@e2a8d24a]
+2015.02.06 17:34:08.336 - Connection  № 0
+2015.02.06 17:34:08.336 - News: ID-7, CATEGORY-ЭКОНОМИКА, TITLE-Экспорт белорусских товаров в Россию сократился на 1 млрд долларов, AUTHOR-Дмитрий Заяц, AGENCY-БелаПАН, DRELEASE-2015-01-13 [dto.News@eca68b87]
+2015.02.06 17:34:08.346 - Connection  № 0
+2015.02.06 17:34:08.346 - News: ID-8, CATEGORY-СПОРТ, TITLE-Минское Динамо забросило в гостях Словану шесть шайб, AUTHOR-Денис Алдохин, AGENCY-РИА Новости, DRELEASE-2015-01-21 [dto.News@1eca3414]
+2015.02.06 17:34:08.346 - Connection  № 0
+2015.02.06 17:34:08.346 - News: ID-9, CATEGORY-СПОРТ, TITLE-Азаренко вышла во второй круг Australian Open, AUTHOR-Василий Федосенко, AGENCY-TUT.BY, DRELEASE-2015-01-20 [dto.News@74f88db7]
+2015.02.06 17:34:08.346 - Connection  № 0
+2015.02.06 17:34:08.346 - News: ID-10, CATEGORY-СПОРТ, TITLE-Домрачева одержала уверенную победу в масс-старте, AUTHOR-Станислав Коршунов, AGENCY-Reuters, DRELEASE-2015-01-18 [dto.News@c6287662]
+2015.02.06 17:39:14.099 - 		*** ЛОГГЕР СТАРТОВАЛ ***
+2015.02.06 17:39:14.102 - Config file adress: C:\JAVA\PoolConnection//src//dbm//config.properties
+2015.02.06 17:39:14.105 - driver: 	com.mysql.jdbc.Driver
+2015.02.06 17:39:14.106 - host: 	jdbc:mysql://localhost:3306/webnews?autoReconnect=true&useUnicode=true&characterEncoding=cp1251
+2015.02.06 17:39:14.108 - login: 	root
+2015.02.06 17:39:14.110 - password: 
+2015.02.06 17:39:14.475 - Connection is true - 0
+2015.02.06 17:39:14.493 - Connection is true - 1
+2015.02.06 17:39:14.513 - Connection is true - 2
+2015.02.06 17:39:14.532 - Connection is true - 3
+2015.02.06 17:39:14.542 - Connection is true - 4
+2015.02.06 17:39:14.542 - The object DBConnectionManager was created
+2015.02.06 17:39:14.552 - Connection: 0 News: ID-1, CATEGORY-ПОЛИТИКА, TITLE-Россия предлагает ООН закрепить неприемлемость госпереворотов, AUTHOR-Татьяна Гусева, AGENCY-ТАСС, DRELEASE-2015-01-21 [dto.News@e925c111]
+2015.02.06 17:39:14.552 - Connection: 0 News: ID-2, CATEGORY-ПОЛИТИКА, TITLE-Россию нам никто не заменит, AUTHOR-Алина Гришкевич, AGENCY-БЕЛТА, DRELEASE-2015-01-15 [dto.News@4957a391]
+2015.02.06 17:39:14.562 - Connection: 0 News: ID-3, CATEGORY-ПОЛИТИКА, TITLE-Нас беспокоят трудности в России и Беларуси, AUTHOR-Наталья Костюкевич, AGENCY-DELFI, DRELEASE-2014-12-29 [dto.News@c0e1604c]
+2015.02.06 17:39:14.562 - Connection: 0 News: ID-4, CATEGORY-ПОЛИТИКА, TITLE-Встречи контактной группы в Минске 16 января не будет, AUTHOR-Станислав Коршунов, AGENCY-LENTA.RU, DRELEASE-2015-01-16 [dto.News@53ad8746]
+2015.02.06 17:39:14.562 - Connection: 0 News: ID-5, CATEGORY-ЭКОНОМИКА, TITLE-На торгах 20 января рубль продолжил укрепляться, AUTHOR-Артем Шрайбман, AGENCY-TUT.BY, DRELEASE-2015-01-20 [dto.News@70a6b549]
+2015.02.06 17:39:14.563 - Connection: 0 News: ID-6, CATEGORY-ЭКОНОМИКА, TITLE-Газпром закрывает представительство в Минске из-за ненадобности, AUTHOR-Валентина Лайкова, AGENCY-ИНТЕРФАКС, DRELEASE-2015-01-19 [dto.News@e2a8d24a]
+2015.02.06 17:39:14.563 - Connection: 0 News: ID-7, CATEGORY-ЭКОНОМИКА, TITLE-Экспорт белорусских товаров в Россию сократился на 1 млрд долларов, AUTHOR-Дмитрий Заяц, AGENCY-БелаПАН, DRELEASE-2015-01-13 [dto.News@eca68b87]
+2015.02.06 17:39:14.563 - Connection: 0 News: ID-8, CATEGORY-СПОРТ, TITLE-Минское Динамо забросило в гостях Словану шесть шайб, AUTHOR-Денис Алдохин, AGENCY-РИА Новости, DRELEASE-2015-01-21 [dto.News@1eca3414]
+2015.02.06 17:39:14.563 - Connection: 0 News: ID-9, CATEGORY-СПОРТ, TITLE-Азаренко вышла во второй круг Australian Open, AUTHOR-Василий Федосенко, AGENCY-TUT.BY, DRELEASE-2015-01-20 [dto.News@74f88db7]
+2015.02.06 17:39:14.564 - Connection: 0 News: ID-10, CATEGORY-СПОРТ, TITLE-Домрачева одержала уверенную победу в масс-старте, AUTHOR-Станислав Коршунов, AGENCY-Reuters, DRELEASE-2015-01-18 [dto.News@c6287662]
+2015.02.09 16:15:16.075 - 		*** ЛОГГЕР СТАРТОВАЛ ***
+2015.02.09 16:15:16.106 - Config file adress: C:\JAVA\PoolConnection//src//dbm//config.properties
+2015.02.09 16:15:16.106 - driver: 	com.mysql.jdbc.Driver
+2015.02.09 16:15:16.106 - host: 	jdbc:mysql://localhost:3306/webnews?autoReconnect=true&useUnicode=true&characterEncoding=cp1251
+2015.02.09 16:15:16.106 - login: 	root
+2015.02.09 16:15:16.106 - password: 
+2015.02.09 16:15:23.370 - Connection is true - 0
+2015.02.09 16:15:23.386 - Connection is true - 1
+2015.02.09 16:15:23.386 - Connection is true - 2
+2015.02.09 16:15:23.401 - Connection is true - 3
+2015.02.09 16:15:23.417 - Connection is true - 4
+2015.02.09 16:15:23.417 - The object DBConnectionManager was created
+2015.02.09 16:15:23.526 - Connection: 0 News: ID-1, CATEGORY-ПОЛИТИКА, TITLE-Россия предлагает ООН закрепить неприемлемость госпереворотов, AUTHOR-Татьяна Гусева, AGENCY-ТАСС, DRELEASE-2015-01-21 [dto.News@e925c111]
+2015.02.09 16:15:23.526 - Connection: 0 News: ID-2, CATEGORY-ПОЛИТИКА, TITLE-Россию нам никто не заменит, AUTHOR-Алина Гришкевич, AGENCY-БЕЛТА, DRELEASE-2015-01-15 [dto.News@4957a391]
+2015.02.09 16:15:23.526 - Connection: 0 News: ID-3, CATEGORY-ПОЛИТИКА, TITLE-Нас беспокоят трудности в России и Беларуси, AUTHOR-Наталья Костюкевич, AGENCY-DELFI, DRELEASE-2014-12-29 [dto.News@c0e1604c]
+2015.02.09 16:15:23.542 - Connection: 0 News: ID-4, CATEGORY-ПОЛИТИКА, TITLE-Встречи контактной группы в Минске 16 января не будет, AUTHOR-Станислав Коршунов, AGENCY-LENTA.RU, DRELEASE-2015-01-16 [dto.News@53ad8746]
+2015.02.09 16:15:23.542 - Connection: 0 News: ID-5, CATEGORY-ЭКОНОМИКА, TITLE-На торгах 20 января рубль продолжил укрепляться, AUTHOR-Артем Шрайбман, AGENCY-TUT.BY, DRELEASE-2015-01-20 [dto.News@70a6b549]
+2015.02.09 16:15:23.542 - Connection: 0 News: ID-6, CATEGORY-ЭКОНОМИКА, TITLE-Газпром закрывает представительство в Минске из-за ненадобности, AUTHOR-Валентина Лайкова, AGENCY-ИНТЕРФАКС, DRELEASE-2015-01-19 [dto.News@e2a8d24a]
+2015.02.09 16:15:23.542 - Connection: 0 News: ID-7, CATEGORY-ЭКОНОМИКА, TITLE-Экспорт белорусских товаров в Россию сократился на 1 млрд долларов, AUTHOR-Дмитрий Заяц, AGENCY-БелаПАН, DRELEASE-2015-01-13 [dto.News@eca68b87]
+2015.02.09 16:15:23.542 - Connection: 0 News: ID-8, CATEGORY-СПОРТ, TITLE-Минское Динамо забросило в гостях Словану шесть шайб, AUTHOR-Денис Алдохин, AGENCY-РИА Новости, DRELEASE-2015-01-21 [dto.News@1eca3414]
+2015.02.09 16:15:23.542 - Connection: 0 News: ID-9, CATEGORY-СПОРТ, TITLE-Азаренко вышла во второй круг Australian Open, AUTHOR-Василий Федосенко, AGENCY-TUT.BY, DRELEASE-2015-01-20 [dto.News@74f88db7]
+2015.02.09 16:15:23.557 - Connection: 0 News: ID-10, CATEGORY-СПОРТ, TITLE-Домрачева одержала уверенную победу в масс-старте, AUTHOR-Станислав Коршунов, AGENCY-Reuters, DRELEASE-2015-01-18 [dto.News@c6287662]

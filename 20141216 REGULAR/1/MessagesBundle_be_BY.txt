@@ -1,0 +1,2 @@
+greeting=¬итаю ¬ас!
+question=як справы?
